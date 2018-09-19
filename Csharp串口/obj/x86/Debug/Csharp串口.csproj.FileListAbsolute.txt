@@ -1,0 +1,15 @@
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\bin\Debug\Csharp串口.exe
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\bin\Debug\Csharp串口.pdb
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.csproj.GenerateResource.Cache
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.exe
+C:\Users\shuoliu\Desktop\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.pdb
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.exe
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.pdb
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\bin\Debug\Csharp串口.exe.config
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\obj\x86\Debug\Csharp串口.csproj.GenerateResource.Cache
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\bin\Debug\Csharp串口.exe
+C:\Users\shuoliu\Desktop\VB.NET练习\Csharp串口\Csharp串口\bin\Debug\Csharp串口.pdb
